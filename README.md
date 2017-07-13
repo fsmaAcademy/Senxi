@@ -1,4 +1,4 @@
-# Estrutura MVC com PHP puro
+# Senxi
 Esta é uma estrutura de MVC com a linguagem PHP simples. É preciso realizar algumas modificações básicas para instalação da plataforma.
 
 ## 1. A plataforma depende de um banco de dados MySQL
